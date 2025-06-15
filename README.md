@@ -1,5 +1,7 @@
 # Flood Fill
 
+Aluna: Milena Lara Reis Ferreira
+
 ## Descrição
 
 Este é um trabalho desenvolvido para a disciplina de Fundamentos de Projeto e Análise de Algoritmos, ministrada pelo professor João Paulo Aramuni em 2025/1 no bacharelado em Engenharia de Software da PUC Minas.
