@@ -47,6 +47,3 @@ def main():
 
     print("\nGrid preenchido:")
     print_grid(grid)
-
-if __name__ == "__main__":
-    main()
